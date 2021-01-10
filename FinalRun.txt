@@ -1,0 +1,5 @@
+C:\Python\python.exe "C:/Users/Admin/Desktop/ML/final project/choose_model_and_retrain.py"
+accuracy: 0.9549
+time take to process: 299.890625
+
+Process finished with exit code 0
